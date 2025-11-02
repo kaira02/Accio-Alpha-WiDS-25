@@ -1,36 +1,20 @@
+# WiDS-2024
 
-## Week-1 Resources
+Welcome to Winter in Data Science Program!
+This README will guide you through the resources and materials provided in this repository to ensure a smooth and effective learning experience.  
 
-## Python Basics
+## Table of Contents
 
-Throughout this course, you will primarily use Python for coding. While an in-depth knowledge of the language is not required, understanding basic data types, data structures, loops, functions, and file operations is essential. Here are some resources to help you with Python basics:
+1. [Week-1](/Week-1/)   
+    We'll be diving into the fundamentals of Python and essential data science libraries such as NumPy and Matplotlib.
+2. [Week-2](/Week-2/)
+3. [Week-3](/Week-3/)
+4. [Week-4](/Week-4/)
+5. [BONUS WEEK](/BONUS/)   
+## Getting Started
 
-- [Python Basics Video](https://youtu.be/kqtD5dpn9C8?feature=shared)
-- [W3Schools Python Tutorial](https://www.w3schools.com/python/)
-- [Python Basics Playlist](https://youtube.com/playlist?list=PLzMcBGfZo4-mFu00qxl0a67RhjjZj3jXm&feature=shared)
+Clone this repository to your local machine using the following command:
 
-## Colab Notebooks
-
-In this course, we'll use Colab Jupyter Notebooks for coding exercises. Colab allows you to write and run code in separate cells, facilitating easier debugging. It's a hosted Jupyter notebook service with free access to computing resources, including GPUs and TPUs. Learn the basics of Colab with this [introduction guide](https://youtu.be/iMlMfrXJYSg?feature=shared).
-
-## NumPy Basics
-
-NumPy (Numerical Python) is a fundamental library for linear algebra in Python. It plays a crucial role in AI/ML and data science by enabling efficient mathematical and logical operations on arrays. Explore NumPy through the following resources:
-
-- [NumPy Quickstart Tutorial](https://numpy.org/doc/stable/user/quickstart.html)
-- [NumPy W3Schools Tutorial](https://www.w3schools.com/python/numpy/default.asp)
-- [NumPy Video Tutorial](https://youtu.be/QUT1VHiLmmI?feature=shared)
-
-## Matplotlib Basics
-
-Matplotlib is Python's essential plotting library, widely used for data visualization. It supports various types of plots and is the foundation for other visualization packages like pandas and Seaborn. Get familiar with Matplotlib through these resources:
-
-- [Matplotlib W3Schools Intro](https://www.w3schools.com/python/matplotlib_intro.asp)
-- [Matplotlib Documentation](https://matplotlib.org/)
-- [Matplotlib Video Tutorial](https://youtu.be/OZOOLe2imFo?feature=shared)
-
-## Pandas Basics
-
-Pandas is a Python library used for working with datasets. It is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool. Pandas has data structures for data analysis. The most commonly used data structures are Series and DataFrame. Series is one-dimensional. It consists of one column. DataFrame is two dimensional. It consists of rows and columns. For basic introduction use the following guide:                                                                                   - [Pandas Documentation](https://pandas.pydata.org/)                                                                   
-- [W3Schools Pandas Tutorial](https://www.w3schools.com/python/pandas/default.asp)
-- [Pandas Video Tutorial](https://youtu.be/vmEHCJofslg?feature=shared)
+```
+git clone https://github.com/shreshtha21/Accio-Alpha
+```
