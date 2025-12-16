@@ -21,5 +21,3 @@ The analysis and study we have done till now was for univariate time series and 
 
 ## Exercise: <br />
 To make sure you are comfortable with this week's material, there is an assignment for you to solve. Note all your key thoughts down in the markdown of a jupyter notebook that you are working with. Interesting conclusions from data too would be appreciated :)
-<br />
-Also, be sure to review the worked examples for this week.
